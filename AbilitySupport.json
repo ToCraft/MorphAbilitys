@@ -967,7 +967,7 @@
     "hostile"
   ],
   "gaia.entity.monster.EntityGaiaHunter": [
-    "hostile",
+    "hostile"
   ],
   "gaia.entity.monster.EntityGaiaHarpy": [
     "hostile",
@@ -1138,6 +1138,30 @@
     "hostile",
     "float|-0.114,true",
     "potionEffect|2,100,3,false"
+  ],
+  "got.common.entity.animal.GOTEntityAurochs" : [
+  ],
+  "got.common.entity.animal.GOTEntityBear" : [
+  ],
+  "got.common.entity.animal.GOTEntityBird" : [
+  ],
+  "got.common.entity.animal.GOTEntityButterfly" : [
+  ],
+  "got.common.entity.animal.GOTEntityCamel" : [
+  ],
+  "got.common.entity.animal.GOTEntityCrocodile" : [
+  ],
+  "got.common.entity.animal.GOTEntityDeer" : [
+  ],
+  "got.common.entity.animal.GOTEntityDesertScorpion" : [
+  ],
+  "got.common.entity.animal.GOTEntityDikDik" : [
+  ],
+  "got.common.entity.animal.GOTEntityDirewolf" : [
+  ],
+  "got.common.entity.animal.GOTEntityDragon" : [
+    "fireImmunity",
+    "fly"
   ],
   "gravestone.entity.monster.EntitySkeletonCat": [
     "hostile",
