@@ -1160,6 +1160,8 @@
   "got.common.entity.animal.GOTEntityDirewolf": [
   ],
   "got.common.entity.dragon.GOTEntityDragon": [
+    "fly",
+    "fireImmunity"
   ],
   "got.common.entity.animal.GOTEntityElephant": [
   ],
