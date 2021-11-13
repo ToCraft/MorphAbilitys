@@ -13,6 +13,1708 @@
 	"STATE",
 	"EXH"
   ],
+  "got.common.entity.animal.GOTEntityAurochs": [
+  ],
+  "got.common.entity.animal.GOTEntityBear": [
+  ],
+  "got.common.entity.animal.GOTEntityBird": [
+  ],
+  "got.common.entity.animal.GOTEntityButterfly": [
+  ],
+  "got.common.entity.animal.GOTEntityCamel": [
+  ],
+  "got.common.entity.animal.GOTEntityCrocodile": [
+  ],
+  "got.common.entity.animal.GOTEntityDeer": [
+  ],
+  "got.common.entity.animal.GOTEntityDesertScorpion": [
+  ],
+  "got.common.entity.animal.GOTEntityDikDik": [
+  ],
+  "got.common.entity.animal.GOTEntityDirewolf": [
+  ],
+  "got.common.entity.dragon.GOTEntityDragon": [
+  ],
+  "got.common.entity.animal.GOTEntityElephant": [
+  ],
+  "got.common.entity.animal.GOTEntityFish": [
+  ],
+  "got.common.entity.animal.GOTEntityFlamingo": [
+  ],
+  "got.common.entity.animal.GOTEntityGemsbok": [
+  ],
+  "got.common.entity.animal.GOTEntityGiraffe": [
+  ],
+  "got.common.entity.animal.GOTEntityGorcrow": [
+  ],
+  "got.common.entity.animal.GOTEntityHorse": [
+  ],
+  "got.common.entity.animal.GOTEntityJungleScorpion": [
+  ],
+  "got.common.entity.animal.GOTEntityKineAraw": [
+  ],
+  "got.common.entity.animal.GOTEntityLion": [
+  ],
+  "got.common.entity.animal.GOTEntityLioness": [
+  ],
+  "got.common.entity.animal.GOTEntityMammoth": [
+  ],
+  "got.common.entity.animal.GOTEntityManticore": [
+  ],
+  "got.common.entity.animal.GOTEntityMidges": [
+  ],
+  "got.common.entity.animal.GOTEntityMossovyWerewolf": [
+  ],
+  "got.common.entity.animal.GOTEntityRabbit": [
+  ],
+  "got.common.entity.animal.GOTEntityRedScorpion": [
+  ],
+  "got.common.entity.animal.GOTEntityRhino": [
+  ],
+  "got.common.entity.animal.GOTEntitySeagull": [
+  ],
+  "got.common.entity.animal.GOTEntityShadowcat": [
+  ],
+  "got.common.entity.animal.GOTEntitySnowBear": [
+  ],
+  "got.common.entity.animal.GOTEntitySwan": [
+  ],
+  "got.common.entity.animal.GOTEntityTermite": [
+  ],
+  "got.common.entity.animal.GOTEntityWalrus": [
+  ],
+  "got.common.entity.animal.GOTEntityWhiteOryx": [
+  ],
+  "got.common.entity.animal.GOTEntityWildBoar": [
+  ],
+  "got.common.entity.animal.GOTEntityWoolyRhino": [
+  ],
+  "got.common.entity.animal.GOTEntityWyvern": [
+  ],
+  "got.common.entity.animal.GOTEntityZebra": [
+  ],
+  "got.common.entity.westeros.GOTEntityWhore": [
+  ],
+  "got.common.entity.westeros.GOTEntityMaester": [
+  ],
+  "got.common.entity.other.GOTEntityBandit": [
+  ],
+  "got.common.entity.other.GOTEntityThief": [
+  ],
+  "got.common.entity.other.GOTEntityEssosBandit": [
+  ],
+  "got.common.entity.other.GOTEntityBarrowWight": [
+  ],
+  "got.common.entity.other.GOTEntityScrapTrader": [
+  ],
+  "got.common.entity.essos.GOTEntityStoneman": [
+  ],
+  "got.common.entity.westeros.GOTEntityMercenary": [
+  ],
+  "got.common.entity.westeros.ice.GOTEntityWhiteWalker": [
+  ],
+  "got.common.entity.westeros.ice.GOTEntityWight": [
+  ],
+  "got.common.entity.westeros.ice.GOTEntityIceSpider": [
+  ],
+  "got.common.entity.westeros.ice.GOTEntityWightGiant": [
+  ],
+  "got.common.entity.westeros.wildling.GOTEntityWildling": [
+  ],
+  "got.common.entity.westeros.wildling.GOTEntityWildlingArcher": [
+  ],
+  "got.common.entity.westeros.wildling.GOTEntityWildlingAxeThrower": [
+  ],
+  "got.common.entity.westeros.wildling.GOTEntityWildlingBannerBearer": [
+  ],
+  "got.common.entity.westeros.wildling.GOTEntityWildlingChieftain": [
+  ],
+  "got.common.entity.westeros.wildling.GOTEntityGiant": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThenn": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThennArcher": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThennAxeThrower": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThennBannerBearer": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThennBerserker": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThennMagnar": [
+  ],
+  "got.common.entity.westeros.thenn.GOTEntityThennBlacksmith": [
+  ],
+  "got.common.entity.westeros.GOTEntityCrasterWife": [
+  ],
+  "got.common.entity.westeros.gift.GOTEntityGiftMan": [
+  ],
+  "got.common.entity.westeros.gift.GOTEntityGiftBlacksmith": [
+  ],
+  "got.common.entity.westeros.gift.GOTEntityGiftGuard": [
+  ],
+  "got.common.entity.westeros.gift.GOTEntityGiftBannerBearer": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthMan": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthLevyman": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthLevymanArcher": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthSoldier": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthSoldierArcher": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthGuard": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthBannerBearer": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthCaptain": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthBlacksmith": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthGoldsmith": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthFarmer": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthFarmhand": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthBartender": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthGreengrocer": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthLumberman": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthMason": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthBrewer": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthFlorist": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthButcher": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthFishmonger": [
+  ],
+  "got.common.entity.westeros.north.GOTEntityNorthBaker": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillman": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanWarrior": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanCannibal": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanMercenary": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanArcher": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanAxeThrower": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanBannerBearer": [
+  ],
+  "got.common.entity.westeros.north.hillman.GOTEntityNorthHillmanChieftain": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornMan": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornLevyman": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornLevymanArcher": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornSoldier": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornSoldierArcher": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornBannerBearer": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornCaptain": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornBaker": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornBartender": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornGoldsmith": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornBlacksmith": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornBrewer": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornButcher": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornFarmer": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornFarmhand": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornFishmonger": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornFlorist": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornGreengrocer": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornLumberman": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornMason": [
+  ],
+  "got.common.entity.westeros.ironborn.GOTEntityIronbornCorsair": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsMan": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsLevyman": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsLevymanArcher": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsSoldier": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsSoldierArcher": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsGuard": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsBannerBearer": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsCaptain": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsBaker": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsBartender": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsBlacksmith": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsGoldsmith": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsBrewer": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsButcher": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsFarmer": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsFarmhand": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsFishmonger": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsFlorist": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsGreengrocer": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsLumberman": [
+  ],
+  "got.common.entity.westeros.westerlands.GOTEntityWesterlandsMason": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsMan": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsLevyman": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsLevymanArcher": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsSoldier": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsSoldierArcher": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsBannerBearer": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsCaptain": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsBaker": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsBartender": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsBlacksmith": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsGoldsmith": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsBrewer": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsButcher": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsFarmer": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsFarmhand": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsFishmonger": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsFlorist": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsGreengrocer": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsLumberman": [
+  ],
+  "got.common.entity.westeros.riverlands.GOTEntityRiverlandsMason": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillman": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanWarrior": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanArcher": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanAxeThrower": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanBerserker": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanBannerBearer": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanWarlord": [
+  ],
+  "got.common.entity.westeros.hillman.GOTEntityHillmanBartender": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynMan": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynLevyman": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynLevymanArcher": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynSoldier": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynSoldierArcher": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynGuard": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynBannerBearer": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynCaptain": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynBaker": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynBartender": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynBlacksmith": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynGoldsmith": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynBrewer": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynButcher": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynFarmer": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynFarmhand": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynFishmonger": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynFlorist": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynGreengrocer": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynLumberman": [
+  ],
+  "got.common.entity.westeros.arryn.GOTEntityArrynMason": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneMan": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneLevyman": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneLevymanArcher": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneSoldier": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneSoldierArcher": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneBannerBearer": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneCaptain": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneBaker": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneBartender": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneBlacksmith": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneGoldsmith": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneBrewer": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneButcher": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneFarmer": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneFarmhand": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneFishmonger": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneFlorist": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneGreengrocer": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneLumberman": [
+  ],
+  "got.common.entity.westeros.dragonstone.GOTEntityDragonstoneMason": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenMan": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenLevyman": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenLevymanArcher": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenSoldier": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenSoldierArcher": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenBannerBearer": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenCaptain": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenBaker": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenBartender": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenBlacksmith": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenGoldsmith": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenBrewer": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenButcher": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenFarmer": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenFarmhand": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenFishmonger": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenFlorist": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenGreengrocer": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenLumberman": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenMason": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenKingsguard": [
+  ],
+  "got.common.entity.westeros.targaryen.GOTEntityTargaryenAlchemist": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsMan": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsLevyman": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsLevymanArcher": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsGuard": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsBannerBearer": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityKingsguard": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsCaptain": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsBaker": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsBartender": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsBlacksmith": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsGoldsmith": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsBrewer": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsButcher": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsFarmer": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsFarmhand": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsFishmonger": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsFlorist": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsGreengrocer": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsLumberman": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsMason": [
+  ],
+  "got.common.entity.westeros.crownlands.GOTEntityCrownlandsAlchemist": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsMan": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsLevyman": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsLevymanArcher": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsSoldier": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsSoldierArcher": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsBannerBearer": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsCaptain": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsBaker": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsBartender": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsBlacksmith": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsGoldsmith": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsBrewer": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsButcher": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsFarmer": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsFarmhand": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsFishmonger": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsFlorist": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsGreengrocer": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsLumberman": [
+  ],
+  "got.common.entity.westeros.stormlands.GOTEntityStormlandsMason": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachMan": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachLevyman": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachLevymanArcher": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachSoldier": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachSoldierArcher": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachGuard": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachBannerBearer": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachCaptain": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachBaker": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachBartender": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachBlacksmith": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachGoldsmith": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachBrewer": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachButcher": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachFarmer": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachFarmhand": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachFishmonger": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachFlorist": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachGreengrocer": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachLumberman": [
+  ],
+  "got.common.entity.westeros.reach.GOTEntityReachMason": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneMan": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneLevyman": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneLevymanArcher": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneSoldier": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneSoldierArcher": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneBannerBearer": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneCaptain": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneBaker": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneBartender": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneBlacksmith": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneGoldsmith": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneBrewer": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneButcher": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneFarmer": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneFarmhand": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneFishmonger": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneFlorist": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneGreengrocer": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneLumberman": [
+  ],
+  "got.common.entity.westeros.dorne.GOTEntityDorneMason": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosMan": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosWarrior": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosArcher": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosLegionary": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosBannerBearer": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosWarlord": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosBaker": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosBartender": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosBlacksmith": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosBrewer": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosButcher": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosFarmer": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosFishmonger": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosFlorist": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosGoldsmith": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosLumberman": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosMason": [
+  ],
+  "got.common.entity.essos.braavos.GOTEntityBraavosMiner": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisMan": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisWarrior": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisArcher": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisLegionary": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisBannerBearer": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisWarlord": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisSlave": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisSlaver": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisBaker": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisBartender": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisBlacksmith": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisBrewer": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisButcher": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisFishmonger": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisFlorist": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisGoldsmith": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisLumberman": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisMason": [
+  ],
+  "got.common.entity.essos.volantis.GOTEntityVolantisMiner": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosMan": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosLevyman": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosArcher": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosGuard": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosBannerBearer": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosWarlord": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosBaker": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosBartender": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosBlacksmith": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosBrewer": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosButcher": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosFarmer": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosFishmonger": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosFlorist": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosGoldsmith": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosLumberman": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosMason": [
+  ],
+  "got.common.entity.essos.pentos.GOTEntityPentosMiner": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosMan": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosWarrior": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosArcher": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosGuard": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosBannerBearer": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosWarlord": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosBaker": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosBartender": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosBlacksmith": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosBrewer": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosButcher": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosFarmer": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosFishmonger": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosFlorist": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosGoldsmith": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosLumberman": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosMason": [
+  ],
+  "got.common.entity.essos.norvos.GOTEntityNorvosMiner": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathMan": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathWarrior": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathArcher": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathLegionary": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathBannerBearer": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathWarlord": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathBaker": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathBartender": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathBlacksmith": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathBrewer": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathButcher": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathFarmer": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathFishmonger": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathFlorist": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathGoldsmith": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathLumberman": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathMason": [
+  ],
+  "got.common.entity.essos.lorath.GOTEntityLorathMiner": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorMan": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorLevyman": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorArcher": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorGuard": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorUnsullied": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorBannerBearer": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorWarlord": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorBaker": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorBartender": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorBlacksmith": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorBrewer": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorButcher": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorFarmer": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorFishmonger": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorFlorist": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorGoldsmith": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorLumberman": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorMason": [
+  ],
+  "got.common.entity.essos.qohor.GOTEntityQohorMiner": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysMan": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysWarrior": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysArcher": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysLegionary": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysBannerBearer": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysWarlord": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysSlave": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysSlaver": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysBaker": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysBartender": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysBlacksmith": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysBrewer": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysButcher": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysFishmonger": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysFlorist": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysGoldsmith": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysLumberman": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysMason": [
+  ],
+  "got.common.entity.essos.lys.GOTEntityLysMiner": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrMan": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrWarrior": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrArcher": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrLegionary": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrBannerBearer": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrWarlord": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrSlave": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrSlaver": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrBaker": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrBartender": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrBlacksmith": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrBrewer": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrButcher": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrFishmonger": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrFlorist": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrGoldsmith": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrLumberman": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrMason": [
+  ],
+  "got.common.entity.essos.myr.GOTEntityMyrMiner": [
+  ],
+  "got.common.entity.essos.gold.GOTEntityGoldenWarrior": [
+  ],
+  "got.common.entity.essos.gold.GOTEntityGoldenSpearman": [
+  ],
+  "got.common.entity.essos.gold.GOTEntityGoldenBannerBearer": [
+  ],
+  "got.common.entity.essos.gold.GOTEntityGoldenCaptain": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshMan": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshWarrior": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshArcher": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshLegionary": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshBannerBearer": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshWarlord": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshSlave": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshSlaver": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshBaker": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshBartender": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshBlacksmith": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshBrewer": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshButcher": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshFishmonger": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshFlorist": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshGoldsmith": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshLumberman": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshMason": [
+  ],
+  "got.common.entity.essos.tyrosh.GOTEntityTyroshMiner": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarMan": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarLevyman": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarArcher": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarUnsullied": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarCorsair": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarGuard": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarGladiator": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarHarpy": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarBannerBearer": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarSlave": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarSlaver": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarWarlord": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarCaptain": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarBaker": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarBartender": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarBlacksmith": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarBrewer": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarButcher": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarFishmonger": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarFlorist": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarGoldsmith": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarLumberman": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarMason": [
+  ],
+  "got.common.entity.essos.ghiscar.GOTEntityGhiscarMiner": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthMan": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthWarrior": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthArcher": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthGuard": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthBannerBearer": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthWarlock": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthWarlord": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthBaker": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthBartender": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthBlacksmith": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthBrewer": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthButcher": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthFarmer": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthFishmonger": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthFlorist": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthGoldsmith": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthLumberman": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthMason": [
+  ],
+  "got.common.entity.essos.qarth.GOTEntityQarthMiner": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarMan": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarWarrior": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarArcher": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarBannerBearer": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarWarlord": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarBlacksmith": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarMason": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarButcher": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarBrewer": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarFishmonger": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarBaker": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarMiner": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarGoldsmith": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarLumberman": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarHunter": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarBartender": [
+  ],
+  "got.common.entity.essos.lhazar.GOTEntityLhazarFarmer": [
+  ],
+  "got.common.entity.essos.dothraki.GOTEntityDothraki": [
+  ],
+  "got.common.entity.essos.dothraki.GOTEntityDothrakiArcher": [
+  ],
+  "got.common.entity.essos.dothraki.GOTEntityDothrakiKhal": [
+  ],
+  "got.common.entity.essos.dothraki.GOTEntityDothrakiKhalin": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenMan": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenWarrior": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenArcher": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenAxeThrower": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenMarshal": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenBlacksmith": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenMeadhost": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenBannerBearer": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenFarmhand": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenFarmer": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenLumberman": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenBuilder": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenBrewer": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenButcher": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenFishmonger": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenBaker": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenOrcharder": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIbbenStablemaster": [
+  ],
+  "got.common.entity.essos.ibben.GOTEntityIfekevron": [
+  ],
+  "got.common.entity.essos.jogos.GOTEntityJogos": [
+  ],
+  "got.common.entity.essos.jogos.GOTEntityJogosArcher": [
+  ],
+  "got.common.entity.essos.jogos.GOTEntityJogosChief": [
+  ],
+  "got.common.entity.essos.jogos.GOTEntityJogosShaman": [
+  ],
+  "got.common.entity.essos.mossovy.GOTEntityMossovyWitcher": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiMan": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiLevyman": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiWarrior": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiArcher": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiSamurai": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiBombardier": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiBannerBearer": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiFireThrower": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiShogune": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiFarmhand": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiBlacksmith": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiLumberman": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiMason": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiButcher": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiBrewer": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiFishmonger": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiBaker": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiHunter": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiFarmer": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiGoldsmith": [
+  ],
+  "got.common.entity.essos.yiti.GOTEntityYiTiBartender": [
+  ],
+  "got.common.entity.essos.asshai.GOTEntityAsshaiMan": [
+  ],
+  "got.common.entity.essos.asshai.GOTEntityAsshaiGuard": [
+  ],
+  "got.common.entity.essos.asshai.GOTEntityAsshaiShadowbinder": [
+  ],
+  "got.common.entity.essos.asshai.GOTEntityAsshaiSpherebinder": [
+  ],
+  "got.common.entity.essos.asshai.GOTEntityAsshaiAlchemist": [
+  ],
+  "got.common.entity.essos.asshai.GOTEntityAsshaiCaptain": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosMan": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosWarrior": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosBannerBearer": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosChieftain": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosBlowgunner": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosShaman": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosFarmer": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosFarmhand": [
+  ],
+  "got.common.entity.essos.sothoryos.GOTEntitySothoryosSmith": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerMan": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerWarrior": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerArcher": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerBannerBearer": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerWarlord": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerBlacksmith": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerBartender": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerLumberman": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerMason": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerButcher": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerBrewer": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerFishmonger": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerBaker": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerHunter": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerMiner": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerFarmhand": [
+  ],
+  "got.common.entity.essos.summer.GOTEntitySummerFarmer": [
+  ],
+  "got.common.animal.GOTEntityUlthosSpider": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityAddamMarbrand": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityAemonTargaryen": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityAeronGreyjoy": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityAlliserThorne": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityAmoryLorch": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityAndersYronwood": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityAndrikTheUnsmilling": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityAnyaWaynwood": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityArdrianCeltigar": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityAreoHotah": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityArianneMartell": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityAryaStark": [
+  ],
+  "got.common.entity.essos.legendary.warrior.GOTEntityAsshaiArchmag": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityAuraneWaters": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityBaelorBlacktyde": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityBalonGreyjoy": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityBarbreyDustin": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityBarristanSelmy": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityBenedarBelmore": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBenjenStark": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBericDayne": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityBericDondarrion.LifeStage1": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityBericDondarrion.LifeStage2": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityBericDondarrion.LifeStage3": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityBericDondarrion.LifeStage4": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityBericDondarrion.LifeStage5": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityBericDondarrion.LifeStage6": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBlackWalderFrey": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBranStark": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBrienneTarth": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBronn": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityBryndenTully": [
+  ],
+  "got.common.entity.essos.legendary.quest.GOTEntityBuGai": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityCatelynStark": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityCerseiLannister": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityClementPiper": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityCleyCerwyn": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityCotterPyke": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityCraster": [
+  ],
+  "got.common.entity.essos.legendary.warrior.GOTEntityDaarioNaharis": [
+  ],
+  "got.common.entity.essos.legendary.quest.GOTEntityDaenerysTargaryen": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityDagmer": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityDavenLannister": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityDavosSeaworth": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityDenysMallister": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityDoranMartell": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityDunstanDrumm": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityEbrose": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityEdd": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityEdmureTully": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityEldonEstermont": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityEllaryaSand": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityErikIronmaker": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityEuronGreyjoy": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityForleyPrester": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityFranklynFowler": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityGarlanTyrell": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityGendryBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityGeroldDayne": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityGeroldGrafton": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityGilwoodHunter": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityGoroldGoodbrother": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityGregorClegane.Alive": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityGregorClegane.Dead": [
+  ],
+  "got.common.entity.essos.legendary.warrior.GOTEntityGreyWorm": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityGulianSwann": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityGylbertFarwynd": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityHarmenUller": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityHarmune": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityHarrasHarlaw": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityHarroldHardyng": [
+  ],
+  "got.common.entity.essos.legendary.captain.GOTEntityHarryStrickland": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityHarysSwyft": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityHelmanTallhart": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityHighSepton": [
+  ],
+  "got.common.entity.essos.legendary.trader.GOTEntityHizdahrZoLoraq": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityHodor": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityHortonRedfort": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityHosterTully": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityHotPie": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityHowlandReed": [
+  ],
+  "got.common.entity.essos.legendary.trader.GOTEntityIllyrioMopatis": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityIlynPayne": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityJaimeLannister": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityJanosSlynt": [
+  ],
+  "got.common.entity.essos.legendary.quest.GOTEntityJaqenHghar": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityJasonMallister": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityJeorMormont": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityJoffreyBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityJohnUmber": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityJonConnington": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityJonSnow.Stage1": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityJonSnow.Stage2": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityJonosBracken": [
+  ],
+  "got.common.entity.essos.legendary.warrior.GOTEntityJorahMormont": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityKevanLannister": [
+  ],
+  "got.common.entity.essos.legendary.quest.GOTEntityKitraJuvain": [
+  ],
+  "got.common.entity.essos.legendary.captain.GOTEntityKraznysMoNakloz": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityLancelLannister.Normal": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityLancelLannister.Religious": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityLeoLefford": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityLeytonHightower": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityLorasTyrell": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityLotharFrey": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityLuwin": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityLyleCrakehall": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityLynCorbray": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityLysaArryn": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityMaceTyrell": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityMaegeMormont": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityManceRayder": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityManfreyMartell": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityMargaeryTyrell": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityMaronVolmark": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityMathisRowan": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityMatthosSeaworth": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityMelisandra": [
+  ],
+  "got.common.entity.essos.legendary.quest.GOTEntityMellario": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityMerynTrant": [
+  ],
+  "got.common.entity.essos.legendary.GOTEntityMissandei": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityMonfordVelaryon": [
+  ],
+  "got.common.entity.essos.legendary.trader.GOTEntityMoqorro": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityMullin": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntityMyrcellaBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityNightKing": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityOberynMartell": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityOlennaTyrell": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityOrtonMerryweather": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityOsha": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityPaxterRedwyne": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityPetyrBaelish": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityPodrickPayne": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityPolliver": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityPycelle": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityQuennRoxton": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityQuentenBanefort": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityQuentynMartell": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityQuentynQorgyle": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityQyburn": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityRamsayBolton": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityRandyllTarly": [
+  ],
+  "got.common.entity.essos.legendary.trader.GOTEntityRazdalMoEraz": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityRenlyBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityRickardKarstark": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntityRickonStark": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityRobbStark": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntityRobinArryn": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityRodrikCassel": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityRodrikHarlaw": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityRodrikRyswell": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityRooseBolton": [
+  ],
+  "got.common.entity.essos.legendary.captain.GOTEntitySalladhorSaan": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntitySamwellTarly": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntitySandorClegane": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntitySansaStark": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntitySebastonFarman": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntitySelwynTarth": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntitySelyseBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityShae": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntityShireenBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityStannisBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntitySymondTempleton": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityTheonGreyjoy.Normal": [
+  ],
+  "got.common.entity.westeros.legendary.reborn.GOTEntityTheonGreyjoy.Tormented": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityThoros": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityThreeEyedRaven": [
+  ],
+  "got.common.entity.westeros.legendary.trader.GOTEntityTobhoMott": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntityTommenBaratheon": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityTormund": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityTrystaneMartell": [
+  ],
+  "got.common.entity.essos.legendary.trader.GOTEntityTychoNestoris": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityTyrionLannister": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityTytosBlackwood": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityTytosBrax": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityTywinLannister": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityVargoHoat": [
+  ],
+  "got.common.entity.westeros.legendary.quest.GOTEntityVarys": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityVictarionGreyjoy": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityWalderFrey": [
+  ],
+  "got.common.entity.westeros.legendary.deco.GOTEntityWillasTyrell": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityWilliamMooton": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityWymanManderly": [
+  ],
+  "got.common.entity.essos.legendary.trader.GOTEntityXaroXhoanDaxos": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityYaraGreyjoy": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityYgritte": [
+  ],
+  "got.common.entity.westeros.legendary.captain.GOTEntityYohnRoyce": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityYoungGriff": [
+  ],
+  "got.common.entity.westeros.legendary.warrior.GOTEntityYoren": [
+  ],
+  "got.common.entity.other.GOTEntityPortal": [
+  ],
+  "got.common.entity.other.GOTEntitySmokeRing": [
+  ],
+  "got.common.entity.other.GOTEntityBomb": [
+  ],
+  "got.common.entity.other.GOTEntitySpear": [
+  ],
+  "got.common.entity.other.GOTEntityPlate": [
+  ],
+  "got.common.entity.other.GOTEntityThrowingAxe": [
+  ],
+  "got.common.entity.other.GOTEntityCrossbowBolt": [
+  ],
+  "got.common.entity.other.GOTEntityPebble": [
+  ],
+  "got.common.entity.other.GOTEntityMysteryWeb": [
+  ],
+  "got.common.entity.other.GOTEntityTraderRespawn": [
+  ],
+  "got.common.entity.other.GOTEntityThrownRock": [
+  ],
+  "got.common.entity.other.GOTEntityBarrel": [
+  ],
+  "got.common.entity.other.GOTEntityInvasionSpawner": [
+  ],
+  "got.common.entity.other.GOTEntityThrownTermite": [
+  ],
+  "got.common.entity.other.GOTEntityConker": [
+  ],
+  "got.common.entity.other.GOTEntityFishHook": [
+  ],
+  "got.common.entity.other.GOTEntityDart": [
+  ],
+  "got.common.entity.other.GOTEntityNPCRespawner": [
+  ],
+  "got.common.entity.other.GOTEntityFallingTreasure": [
+  ],
+  "got.common.entity.other.GOTEntityFallingFireJar": [
+  ],
+  "got.common.entity.other.GOTEntityFirePot": [
+  ],
+  "got.common.entity.other.GOTEntityArrowPoisoned": [
+  ],
+  "got.common.entity.other.GOTEntityArrowFire": [
+  ],
+  "got.common.entity.other.GOTEntityLionRug": [
+  ],
+  "got.common.entity.other.GOTEntityBearRug": [
+  ],
+  "got.common.entity.other.GOTEntityGiraffeRug": [
+  ],
+  "got.common.entity.other.GOTEntityBanner": [
+  ],
+  "got.common.entity.other.GOTEntityBannerWall": [
+  ],
+  "got.common.entity.other.GOTEntityLingeringPotion": [
+  ],
+  "got.common.entity.other.GOTEntityLingeringEffect": [
+  ],
+  "got.common.entity.other.GOTEntityCargocart": [
+  ],
+  "got.common.entity.other.GOTEntityPlowcart": [
+  ],
+  "got.common.entity.other.GOTEntityGrapplingArrow": [
+  ],
+  "got.common.entity.other.GOTEntityMotorGrapplingArrow": [
+  ],
+  "got.common.entity.other.GOTEntityHummel009": [
+  ],
   "tropicraft.entities.hostile.land.SpiderAdult": [
     "maxEggsToSpawn"
   ],
